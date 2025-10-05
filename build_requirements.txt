@@ -1,0 +1,8 @@
+# Additional requirements for building executable
+kivy==2.2.0
+kivymd==1.1.1
+PyPDF2==3.0.1
+Pillow==10.0.0
+kivy-garden.filebrowser==0.1.0
+pyinstaller==6.3.0
+auto-py-to-exe==2.42.0
